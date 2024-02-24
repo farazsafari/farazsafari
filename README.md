@@ -29,3 +29,9 @@
 <br/>
 
 <h2>Contact Me &nbsp; 📞</h2>
+
+<p align="center">
+    <a href="mailto:farazsafari9@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Farazsafari9@gmail.com-red?logo=%22gmail%22" />
+    </a> 
+</p>
