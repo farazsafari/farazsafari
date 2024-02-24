@@ -34,6 +34,9 @@
     <a href="mailto:farazsafari9@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-Farazsafari9@gmail.com-red?logo=%22gmail%22" />
     </a> 
+    <a href="https://www.instagram.com/farazzsafari/">
+        <img src="https://img.shields.io/badge/Instagram-@farazzsafari-fa7e1e?logo=%22instagram%22" />
+    </a> 
     <a href="https://t.me/farazzsafari">
         <img src="https://img.shields.io/badge/Telegram-@farazzsafari-blue?logo=%22telegram%22" />
     </a>
